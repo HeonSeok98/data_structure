@@ -6,6 +6,7 @@ class Node:
         self.left = left
         self.right = right
     
+    
 class AVL:
     def __init__(self):
         self.root = None
