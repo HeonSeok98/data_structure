@@ -6,6 +6,8 @@ class Node:
         self.left = left
         self.right = right
     
+
+# 깃허브 확인용
     
 class AVL:
     def __init__(self):
